@@ -1,5 +1,6 @@
 # django-subadmin-example
 
+Sample application to demonstrate `django-subadmin` usage.
 
  ## Installation
 
