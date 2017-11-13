@@ -10,9 +10,11 @@ Checkout code from GitHub
     git clone https://github.com/inueni/django-subadmin-example.git 
  ```
 
-Switch to `django-subadmin-example` directory and run the following commands.
+Switch to `django-subadmin-example` directory and run the following commands (you should do this in `virtualenv`).
 
 ```
+pip install -r requirements.txt
+
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py fakedata
