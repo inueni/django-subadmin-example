@@ -1,2 +1,2 @@
-django==1.11.7
-django-subadmin==1.9
+django>=3.0
+django-subadmin>=2.0
